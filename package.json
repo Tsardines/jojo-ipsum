@@ -1,0 +1,19 @@
+{
+  "name": "jojo-ipsum",
+  "version": "1.0.0",
+  "description": "Jojo's Bizarre Adventure placeholder text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsardines/jojo-ipsum.git"
+  },
+  "author": "haley sulcer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsardines/jojo-ipsum/issues"
+  },
+  "homepage": "https://github.com/Tsardines/jojo-ipsum#readme"
+}
